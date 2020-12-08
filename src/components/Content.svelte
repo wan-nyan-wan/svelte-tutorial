@@ -1,17 +1,7 @@
 <script lang="ts">
-    // props
-    export let name: string;
-
-    const toggleName = () => {
-        if (name == 'world') {
-            name = 'svelte';
-        } else {
-            name = 'world';
-        }
-    };
+    import Profile from './Profile/main.svelte';
 </script>
 
 <main>
-    <h1>Hello {name}!</h1>
-    <button on:click={toggleName}>Toggle name</button>
+    <Profile />
 </main>
