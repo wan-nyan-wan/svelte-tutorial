@@ -1,4 +1,12 @@
 <script lang="ts">
 </script>
 
-<div id="icon"><img src="icon.png" alt="icon" /></div>
+<style global lang="postcss">
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+</style>
+
+<div class="p-6">
+    <img src="icon.png" width="200" height="200" alt="icon" />
+</div>

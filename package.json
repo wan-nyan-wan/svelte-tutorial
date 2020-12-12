@@ -15,7 +15,7 @@
         "@tsconfig/svelte": "^1.0.0",
         "autoprefixer": "^10.0.4",
         "eslint-plugin-svelte3": "^2.7.3",
-        "postcss": "^8.1.10",
+        "postcss": "^8.1.14",
         "rollup": "^2.3.4",
         "rollup-plugin-css-only": "^3.0.0",
         "rollup-plugin-livereload": "^2.0.0",
@@ -25,6 +25,7 @@
         "svelte": "^3.0.0",
         "svelte-check": "^1.0.0",
         "svelte-preprocess": "^4.6.1",
+        "tailwindcss": "^2.0.1",
         "tslib": "^2.0.0",
         "typescript": "^3.9.7"
     },
