@@ -9,7 +9,12 @@ module.exports = {
         node: true,
     },
     plugins: ['svelte3'],
-    extends: ['eslint:recommended'],
+    extends: [
+        'standard',
+        'eslint:recommended',
+        'plugin:@typescript-eslint/eslint-recommended',
+        'plugin:@typescript-eslint/recommended',
+    ],
     overrides: [
         {
             files: ['**/*.svelte'],
@@ -22,4 +27,4 @@ module.exports = {
     settings: {
         // ...
     },
-}
+};
