@@ -6744,10 +6744,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^1.0.0:
-  version "1.1.19"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.1.19.tgz"
-  integrity sha512-Ej0hM800sJ0PfJk0OFqhh2Pa4JOgkKjtY4fk5eC21iWCH5PH8BTKdzSOufi7MA5gY4j7zgpX6Wym37e4myZ8KA==
+svelte-check@^1.1.25:
+  version "1.1.25"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.1.25.tgz#16ccee5e2b70ef39133bf8c0c6619df9a76a6ad7"
+  integrity sha512-GrECBxcH/m86CtxVFC4bfjBRupUA0EG8xZ5Vz9N/d3X6X7SP/DVXYuJVy1rpzsxcBY4sitRaLh8DJ4hKG9izmQ==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
