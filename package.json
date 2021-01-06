@@ -15,7 +15,7 @@
         "@snowpack/plugin-webpack": "^2.2.0",
         "@tsconfig/svelte": "^1.0.0",
         "@types/node": "^14.14.12",
-        "autoprefixer": "^10.0.4",
+        "autoprefixer": "^10.2.0",
         "eslint-plugin-svelte3": "^2.7.3",
         "postcss": "^8.1.14",
         "rollup-plugin-css-only": "^3.0.0",
