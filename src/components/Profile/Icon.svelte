@@ -7,6 +7,6 @@
     @tailwind utilities;
 </style>
 
-<div class="p-3">
+<div class="rounded-full h-24 w-24 flex items-center justify-cent bg-green-800">
     <img class="p-2" src="icon.png" width="200" height="200" alt="icon" />
 </div>

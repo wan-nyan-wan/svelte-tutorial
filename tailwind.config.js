@@ -11,6 +11,9 @@ module.exports = {
         enabled: production, // Disable purge in dev
     },
     theme: {
+        fontFamily: {
+            body: ['Raleway'],
+        },
         extend: {
             animation: {
                 fadeIn: 'fadeIn 2s ease-in forwards',
